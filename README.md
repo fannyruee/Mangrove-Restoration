@@ -40,3 +40,7 @@ Mangrove restoration is often constrained by:
 ## Data & Code Availability
 Due to partner confidentiality and site sensitivity, raw datasets, precise locations, and operational drone code are not publicly available.
 This repository provides high-level methodology, documentation, and non-sensitive outputs only.
+
+## Patent
+
+<img width="483" height="744" alt="Screenshot 2025-12-16 163154" src="https://github.com/user-attachments/assets/60064d5b-b84c-490d-be98-34f2d7f61912" />
