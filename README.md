@@ -1,2 +1,24 @@
 # Mangrove-Restoration
-Project to restore degraded area in mangrove ecosystem using both Nature-based Solution and drone technology
+This project develops a drone-assisted mangrove restoration concept using seedballs to support rehabilitation in degraded and hard-to-access coastal areas. The approach addresses limitations of conventional manual planting, particularly in muddy, flooded, or spatially extensive sites.
+
+## Problem Statement
+Mangrove restoration is often constrained by:
+- Difficult terrain and tidal conditions
+- High labour and logistical costs
+- Limited access to degraded or remote zones
+- These constraints reduce restoration scale and long-term effectiveness.
+
+## Proposed Approach
+1) Seedball Technique
+- Mangrove propagules or seeds coated with clay, soil, and organic matter
+- Protects seeds from predation, desiccation, and tidal displacement
+
+2. Drone-Assisted Deployment
+- Multirotor drones used for targeted aerial dispersal
+- Enables access to flooded, muddy, or unsafe areas
+- Reduces physical disturbance and labour intensity
+
+3. Site Considerations
+- Tidal regime and inundation frequency
+- Substrate stability
+- Existing mangrove cover and degradation level
