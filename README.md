@@ -35,7 +35,6 @@ Mangrove restoration is often constrained by:
 - Potential for rapid post-disaster restoration
 
 ## Project Status
-Implementation phase
 2 patents from Government of Indonesia and on progress field trial in Java island
 
 ## Data & Code Availability
