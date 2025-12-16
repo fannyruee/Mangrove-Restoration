@@ -33,3 +33,11 @@ Mangrove restoration is often constrained by:
 - Reduced labour and operational costs
 - Lower soil compaction and ecological disturbance
 - Potential for rapid post-disaster restoration
+
+## Project Status
+Implementation phase
+This repository documents the concept, workflow, and selected outputs. Field trials and quantitative monitoring are planned for future phases.
+
+## Data & Code Availability
+Due to partner confidentiality and site sensitivity, raw datasets, precise locations, and operational drone code are not publicly available.
+This repository provides high-level methodology, documentation, and non-sensitive outputs only.
