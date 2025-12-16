@@ -22,3 +22,14 @@ Mangrove restoration is often constrained by:
 - Tidal regime and inundation frequency
 - Substrate stability
 - Existing mangrove cover and degradation level
+
+## Objectives
+- Explore the feasibility of aerial seedball deployment for mangroves
+- Develop a replicable restoration workflow
+- Support nature-based solutions for coastal protection and climate adaptation
+  
+## Expected Benefits
+- Increased restoration coverage
+- Reduced labour and operational costs
+- Lower soil compaction and ecological disturbance
+- Potential for rapid post-disaster restoration
