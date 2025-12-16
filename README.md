@@ -36,7 +36,7 @@ Mangrove restoration is often constrained by:
 
 ## Project Status
 Implementation phase
-This repository documents the concept, workflow, and selected outputs. Field trials and quantitative monitoring are planned for future phases.
+2 patents from Government of Indonesia and on progress field trial in Java island
 
 ## Data & Code Availability
 Due to partner confidentiality and site sensitivity, raw datasets, precise locations, and operational drone code are not publicly available.
